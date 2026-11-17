@@ -1,6 +1,6 @@
 [general]
 name=Neighbor Cell Highlighter
-description=邻区高亮工具.
+description=邻区高亮工具
 version=1.0.0
 qgisMinimumVersion=3.0
 qgisMaximumVersion=3.99
@@ -16,9 +16,8 @@ about=这是一个轻量级插件，用于快速查看主小区及其邻区关�
 category=Vector
 icon=icon.png
 tags=telecom, network, sector, neighbor, highlight, line
-homepage=你的主页链接
-repository=你的仓库链接
-tracker=你的Issues链接
+repository=https://github.com/baiyaoyao2015/Neighborcellhighlighting
+tracker=https://github.com/baiyaoyao2015/Neighborcellhighlighting/issues
 changelog=1.0.0 - 插件发布.
 experimental=False
 deprecated=False
